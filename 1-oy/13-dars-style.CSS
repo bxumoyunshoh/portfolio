@@ -1,0 +1,300 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Sport{
+    background-color: blanchedalmond;
+    justify-self: center;
+    color: red;
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 5px;
+}
+.Butsa{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.rangi{
+    margin-top: 10px;
+}
+.Razmer{
+    margin-top: 10px;
+}
+.narx{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+}
+.butsa2{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.rangi2{
+    margin-top: 10px;
+}
+.razmer2{
+    margin-top: 10px;
+}
+.narx2{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+}
+.Butsa3{
+   width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px; 
+}
+.Rangi3{
+    margin-top: 10px;
+}
+.razmer3{
+    margin-top: 10px;
+}
+.narx3{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+}
+.forma{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+h1{
+    color: darkred;
+    background-color: antiquewhite;
+    justify-content: center;
+    margin-top: 30px;
+    padding: 8px;
+    border-radius: 20px;
+}
+.tashqi{
+    padding: 30px;
+    display: grid;
+    grid-template-columns: repeat(3 auto);;
+}
+.rangi4{
+    margin-top: 10px;
+}
+.razmer4{
+    margin-top: 10px;
+}
+.Narxi4{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+}
+.tashqi{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    padding: 40px;
+    margin-top: 10px;
+}
+.forma2{
+   width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px; 
+}
+.rangi5{
+    margin-top: 10px;
+}
+.razmer5{
+    margin-top: 10px;
+}
+.Narxi5{
+   padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto); 
+}
+.forma3{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px; 
+}
+.rangi6{
+    margin-top: 10px;
+}
+.razmer6{
+    margin-top: 10px;
+}
+.Narxi6{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto); 
+}
+.kubg{
+  width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px;  
+}
+.materiali{
+    margin-top: 10px;
+}
+.balandligi{
+    margin-top: 10px;
+}
+.og‘irligi{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto); 
+    
+}
+.kubg2{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px; 
+}
+.materiali2{
+    margin-top: 10px;
+}
+.balandligi2{
+    margin-top: 10px;
+}
+.og‘irligi{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+}
+.oltinT{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px; 
+}
+.materiali3{
+    margin-top: 10px;
+}
+.balandligi3{
+    margin-top: 10px;
+}
+.og‘irligi3{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+}
+.top{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.rangi7{
+    margin-top: 10px;
+}
+.Narxi7{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+}
+.top2{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.rangi8{
+    margin-top: 10px;
+}
+.Narxi8{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto);
+}
+.top3{
+    width: 300px;
+    height: 400px;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid darkred;
+    background-color: antiquewhite;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.rangi9{
+    margin-top: 10px;
+}
+.Narxi9{
+   padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,auto); 
+}
